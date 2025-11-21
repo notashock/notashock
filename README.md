@@ -18,9 +18,6 @@ Open-source tools — mostly so I can complain about bad documentation while fix
 
 ## 📫 Reach Me
 Email: **ashubavireddy2015@gmail.com**  
-LinkedIn: **[https://www.linkedin.com/in/yourprofil](https://linkedin.com/in/ashok-babu-bavireddy-346846258)**  
-Portfolio: **[https://yourportfolio.com](https://notashock.github.io/portfolio/#/)**  
-(If any of these don’t work, blame the internet.)
 
 ## 😄 Pronouns
 He/Him (and occasionally “Why-is-this-not-working”)
