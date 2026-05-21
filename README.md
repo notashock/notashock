@@ -57,9 +57,7 @@ Welcome to my GitHub profile—where my code works... most of the time. If it do
 
 > **🐛 Debugging War Story:** I once spent 4 hours hunting a bug that didn't exist anymore.  
 > **📖 Lesson Learned:** Yes, the universe *does* have a sense of humor.
-
 > **☕ My Productivity Stack:** Coffee → Code → Confusion → Coffee
-
 > **🎯 My Philosophy:** "It works on my machine" is not a deployment strategy (but we've all tried).
 
 ---
