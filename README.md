@@ -1,4 +1,4 @@
-# Hey, I'm Ashok <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28">
+# Hey, I'm Ashok (aka @notashock) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+%7C+CS+Undergrad;Building+things+that+(mostly)+work." alt="Typing SVG" />
